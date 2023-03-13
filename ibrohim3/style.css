@@ -1,0 +1,47 @@
+.salom{
+    font-family: 'Tourney', cursive;
+    font-size: 80px;
+color: white;
+    text-align: center;
+line-height: 0.5;
+text-decoration: underline;
+text-shadow: 1px 1px 2px black, 0 0  25px rgb(52, 52, 167), 0  0 20px darkblue;
+}
+.alek{
+    font-family: 'Tourney', cursive;
+    font-size: 60px;
+color: white;
+text-align: center;
+line-height: 0.5;
+text-decoration: underline;
+text-transform: uppercase;
+text-shadow: 1px 1px 2px black, 0 0  25px rgb(71, 71, 140), 0  0 20px darkblue;
+
+}
+.marhaba{
+    font-family: 'Tourney', cursive;
+    line-height: 0.5;
+    font-size: 40px;
+color: white;
+text-align: center;
+text-decoration: underline;
+text-shadow: 1px 1px 2px black, 0 0  25px rgb(93, 93, 156), 0  0 20px darkblue;
+
+
+}
+.holla{
+    font-family: 'Tourney', cursive;
+    font-size: 30px;
+    line-height: 0.5;
+    color: white;
+text-align: center;
+text-decoration: underline;
+text-shadow: 1px 1px 2px black, 0 0  25px rgb(136, 110, 110) , 0  0 20px darkblue;
+
+
+}
+*{
+    text-align: center;
+    background-color: rgb(161, 157, 157);
+
+}
