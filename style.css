@@ -1,0 +1,248 @@
+ 
+* :hover{
+    padding: 0;
+    margin: 0;
+    height: 100px;
+    background-color: rgb(3, 220, 53);
+ 
+    }
+    
+    
+
+.icons :link{
+     text-align: center;
+     color: rgb(4, 7, 148);
+     transform: translateX(-10px);
+     box-shadow: 0px 20px 25px rgba(0, 0, 0,0.7);
+     font-size: 50px;
+     border-radius: 8%;
+    }
+    .icons :visited{
+        text-align: center;
+        color: rgb(4, 7, 148);
+        transform: translateX(-10px);
+        box-shadow: 0px 20px 25px rgba(0, 0, 0,0.7);
+        font-size: 50px;
+        border-radius: 8%;
+       }
+       .icons :hover{
+        text-align: center;
+        color: rgb(4, 7, 148);
+        transform: translateX(-10px);
+        box-shadow: 0px 20px 25px rgba(0, 0, 0,0.7);
+        font-size: 50px;
+        border-radius: 8%;
+       }
+       
+.ibrohim{
+text-align: center;
+padding: 80px 50px;
+
+
+} 
+*{
+    margin: 0;
+    padding: 0;
+
+}
+header{
+    width: 100%;
+    height: 100vh;
+    background: black;
+    position: relative;
+}
+.video_item{
+  
+    width: 100%;
+    height: 100%;
+}
+.video{
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+.header_titel{
+    position: absolute;
+    color: white;
+    width: 100%;
+    top: 10%;
+text-align: center;
+font-size: 100px;
+}
+
+.h1{
+    word-spacing: 9em;
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Lobster', cursive;
+
+}
+.h2{
+    word-spacing: 9em;
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Satisfy', cursive;
+}
+
+.h219{
+    word-spacing: 9em;
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Secular One', sans-serif;
+
+}
+.h2e{
+    word-spacing: 9em;
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Amatic SC', cursive;
+
+}
+.h2c{
+    word-spacing: 9em;
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Indie Flower', cursive;
+
+}
+.h2m{
+    word-spacing: 9em;
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Yellowtail', cursive;
+
+}
+.h2i{
+    word-spacing: 9em;
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Rampart One', cursive;
+
+}
+
+.h2o{
+    word-spacing: 9em;
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Allura', cursive;
+
+}
+.h2z{
+    word-spacing: 9em;
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Rock Salt', cursive;
+
+}
+
+.h2v{
+    word-spacing: 9em;
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Pacifico', cursive;
+
+}
+.h2li{
+    word-spacing: 9em;
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Shadows Into Light', cursive;
+
+}
+.h2il{
+    word-spacing: 9em;
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Permanent Marker', cursive;
+
+}
+.h2nm{
+    word-spacing: 9em;
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Zeyada', cursive;
+
+}
+.kl{
+    position: absolute;
+    color: white;
+    width: 100%;
+    top: 10%;
+text-align: center;
+font-size: 100px;
+word-spacing: 9em;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
