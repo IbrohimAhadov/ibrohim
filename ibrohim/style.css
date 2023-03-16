@@ -1,29 +1,30 @@
-.icon-name{
-    display: -webkit-box;
-    font-family: 'Charm', cursive;
-    font-family: 'Climate Crisis', cursive;
-    font-family: 'Noto Sans KR', sans-serif;
-    font-family: 'Noto Sans Sinhala', sans-serif;
-    font-family: 'Noto Serif Lao', serif;
-    font-family: 'Roboto Condensed', sans-serif;
-    font-family: 'Sail', cursive;
-    font-family: 'Satisfy', cursive;
-    font-family: 'Strait', sans-serif;
-    text-shadow: 0 3px white , 0 0 5px  red;
-}
 *{
-    background-color: rgb(196, 235, 235);
+    background-color: rgb(14, 14, 224);
     text-align: center;
-}
-.class{
-text-align: left;
-}
-.negativ{
-    text-align:left;
     
 }
-.container{
-width: 1140px;
-margin: 0 auto;
-}
+a:link,a:visited{
 
+    background-color: red;
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    font-size:50px ;
+    margin: 50px;
+    border: 10px solid white;
+    padding: 50px;
+
+
+}
+a:hover,a:active{
+    background-color: red;
+    color: green;
+    padding: 35px 23px;
+}
+span{
+    background-color: rgb(13, 7, 179);
+    border: 5px solid ;
+    border-radius: 10px;
+margin: 50px;
+display: inline-block;
+}
