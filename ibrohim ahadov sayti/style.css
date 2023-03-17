@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+body{
+   margin: 0;
+   padding: 0;
+   background: #021f4a;
+   font-family: 'Montserrat', sans-serif;
+}
+.container{
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   margin-top: 5%;
+   transform: translate(-50%,-50%);
+   width: 500px;
+   padding: 20px;
+   background: #232B63;
+   box-shadow: 0 5px 15px rgba(0,0,0,0.5);
+}
+.container h1{
+   color: #fff;
+   margin: 0;
+   padding: 0;
+}
+.container p{
+   color: #fff;
+}
+.container .skills{
+   position: relative;
+   padding: 15px 20px;
+   background: rgba(0,0,0,.15);
+   margin: 10px 0;
+   border: 1px solid rgba(255,255,255,0.1);
+   box-shadow: inset 0 0 25px rgba(0,0,0,0.5);
+}
+.container .skills h3{
+   margin: 0;
+   padding: 0;
+   color: #fff;
+   float: left;
+}
+.container .skills .percent{
+   float: right;
+   color: #fff;
+}
+.container .skills .bar{
+   position: relative;
+   width: 100%;
+   height: 2px;
+   background: #041c40;
+   margin: 10px 0 15px;
+}
+.container .skills .bar .progress{
+   position: absolute;
+   top: 0;
+   left: 0;
+   width: 87%;
+   height: 100%;
+   background: linear-gradient(to left, #2b80ff,#00327b);
+}
+.container .skills .bar .progress:before{
+   content: '';
+   position: absolute;
+   top: -5px;
+   right: 0;
+   width: 12px;
+   height: 12px;
+   border-radius: 50%;
+   background: #fff;
+   box-shadow:  0 0 25px rgba(14,123,247,1);
+   
+}
