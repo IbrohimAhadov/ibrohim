@@ -1,0 +1,29 @@
+*{
+margin: 5px;
+
+
+    
+}
+.box   {
+background-color: white;
+color: azure;
+box-shadow:5px 5px 5px red ;
+text-align: center;
+font-weight: 900px;
+width: 70px;
+height: 60px;
+margin: 10px;
+float: left;
+}
+
+
+.icon-name{
+    text-shadow: 0 3px rgb(189, 20, 20), 0 0 5px red;
+    display: -webkit-box;
+    text-rendering: auto;
+    margin: 6px;
+}
+a:hover {
+    color: rgb(222, 208, 208);
+    background-color: aliceblue;
+}
