@@ -1,0 +1,209 @@
+.outer{
+  
+    background-image: 
+  linear-gradient(#eee .1em, transparent .1em);
+  background-size: 100% 1.2em;
+    padding-top: 50px;
+  }
+  nav{
+    background-color:#2196F3;
+    overflow:hidden;
+    font-family:Oxygen;
+  }
+  
+  .navbar-brand{
+    padding:3px 10px;
+  }
+  .navbar-nav > li > a {
+    background-color:#2196F3;
+    color:white;
+  }
+  .navbar-nav > li > a:hover {
+    background-color:#03A9F4;
+  }
+  .navbar-nav > li > a:focus {
+    background-color:#03A9F4;
+  }
+  .navbar-nav > ul{
+     margin:0;
+  }
+  .logo{
+    padding-top:8px;
+    padding-right:30px;
+    padding-left:30px;
+    color:white;
+    font-family:Oxygen;
+    font-size:30px;
+    font-weight:bold;
+  }
+  
+  .wrapper{
+    float:center;
+    margin:0px auto;
+    background-color:white;
+  }
+  #personal{
+    
+    background-color:rgb(50,50,150);
+    background-image:url(https://c5.staticflickr.com/1/462/31726704500_33721375db_k.jpg);
+      background-repeat:no-repeat;
+    background-position:center;
+      background-size:cover;
+  }
+  #portifolio{
+    background-color:rgb(50,150,50);
+    background-image:url(https://c3.staticflickr.com/1/384/31726910090_a63de4bde9_k.jpg);
+      background-size:cover;
+    background-position:center
+      /*https://c8.staticflickr.com/1/713/31246578783_5a4483a028_o.jpg*/
+    
+  }
+  #social{
+    min-height:200px;
+    padding:20px;
+    background-image:url(https://c3.staticflickr.com/1/540/31726906410_ed4a5a550a_k.jpg);
+      background-style:no-repeat;
+      background-position:center;
+      background-size:cover;
+    /*https://c5.staticflickr.com/1/616/31226931124_6714f41cfc_k.jpg*/
+  }
+  .content .block{
+  
+    height:auto;
+    overflow:hidden;
+  }
+  #desc{
+    text-align:center;  
+    margin:60px 0;
+  }
+  .description-container{
+    margin:0 auto;
+    max-width:500px;
+    border-left-style:solid;
+    border-width:5px;
+    border-color:white;
+  }
+  #description{
+    max-width:500px;
+    color:white;
+    font-size:18px;
+    font-family:Oxygen;
+    border-radius:10px;
+    margin:0 auto;
+    padding: 0 20px;
+  }
+  #personal{
+    padding:20px;
+  }
+  #personal .row .col-md-6{
+    margin:10px;
+    padding:20px 0;
+  }
+  #personal .row .col-md-4{
+    padding:20px 0;
+  }
+  #personal .row img{
+    margin:0 auto;
+    max-width:200px;
+    height:auto;
+    border-radius:50%;
+  }
+  
+  #portifolio .row img{
+    height:auto;
+    max-height:150px;
+  }
+  #portifolio{
+    padding:20px 0;
+  }
+  #portifolio .row .col-md-4{
+     margin:10px 0; 
+  }
+  .img-block{
+    background-color:rgba(255,255,255,0.8);
+    width:300px;
+    margin:0 auto;
+    height:200px;
+    padding:10px;
+    border-radius:10px;
+    box-shadow:0px 0px 10px 3px;
+  }
+  
+  .titles{
+    font-family:Oxygen; 
+    font-size:32px;
+    color:white;
+    padding-bottom:20px;
+    text-align:center;
+    font-weight:bold;
+  }
+  
+  #social .social-buttons{
+    margin:50px auto;
+    float:center;
+    max-width:500px;
+  }
+  #social .social-buttons .row .col-md-4{
+    float:center;
+    margin:10px auto;
+    display:inline-block;
+    text-align:center;
+  }
+  #social .social-buttons .row a{
+    width:100px;
+    height:100px;
+    font-size:60px;
+    border-radius:50%;
+    background-color:rgba(255,255,255,0.7);
+  }
+  #social .social-buttons .row a:hover{
+    background-color:#FFF
+  }
+  #footer{
+    background-color:#0F0F0F;
+    color:white;
+    min-height:30px;
+    margin:0 auto;
+    text-align:center;
+    padding-top:5px;
+  }
+  
+  nav .navbar-header button{
+    border-style:solid;
+    border-color:white;
+    margin-right:30px;
+  }
+  .icon-bar{
+    color:white;
+    background-color:white;
+  }
+  
+  
+  .back-to-top{
+      width: 60px;
+      height: 60px;
+    text-align:center;
+    padding-top:8px;
+      position: fixed;
+      right: 20px;
+      bottom: 20px;
+      background: #2196F3;
+      border-radius: 30px;
+    font-size:32px;
+    color:white;
+  }
+  .back-to-top:hover{
+    color:white;
+    box-shadow:0 0 10px 2px;
+  }
+  .back-to-top:focus{
+    color:white;
+  }
+  
+  #portifolio .row .caption{
+    color:black;
+    padding-top:8px;
+    font-size:18px;
+    font-family:Oxygen;
+    font-weight:bold;
+  }
